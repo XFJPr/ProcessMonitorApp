@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMonitorApp", "ConsoleApp1\ProcessMonitorApp.csproj", "{E36C34CA-FAF7-43A5-866D-D4450884BBDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMonitorApp", "ProcessMonitorMain\ProcessMonitorApp.csproj", "{E36C34CA-FAF7-43A5-866D-D4450884BBDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMonitorUnitTests", "ProcessMonitorUnitTests\ProcessMonitorUnitTests.csproj", "{AC62AF42-EFC5-4FB0-B534-9BE2A81A4974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessMonitorUnitTests", "ProcessMonitorUnitTests\ProcessMonitorUnitTests.csproj", "{AC62AF42-EFC5-4FB0-B534-9BE2A81A4974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
